@@ -1,5 +1,5 @@
 // Конфигурация
-const WORKER_URL = 'https://usm-aggregator.ВАШ-ПОДДОМЕН.workers.dev'; // ЗАМЕНИТЕ НА СВОЙ URL
+const WORKER_URL = 'https://usm-aggregator.toskdj.workers.dev'; // ЗАМЕНИТЕ НА СВОЙ URL
 
 // Состояние приложения
 let state = {
